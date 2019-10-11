@@ -1,3 +1,4 @@
+/*Time Complexity : O(n*sum)   */
 #include<bits/stdc++.h>
 #define intt long long
 #define fast ios_base::sync_with_stdio(false);cin.tie(NULL);cout.tie(NULL);
